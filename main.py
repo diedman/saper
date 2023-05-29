@@ -69,7 +69,7 @@ def set_mines():
 			count = count + 1
 			numbers[r][c] = -1
 
-# Функция установки значений ячеек для остальной сетки
+# Функция установки значений ячеек
 def set_values():
 
 	global numbers

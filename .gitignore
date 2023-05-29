@@ -1,2 +1,4 @@
 /venv
 /results.txt
+/__pycache__
+/test.py
